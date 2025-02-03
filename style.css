@@ -115,18 +115,19 @@ body{
 }
 
 #imagem-corpo{
-    width: 90vw;
-    height: 17rem;
+    width: 100vw;
+    height: 40vh;
     
 
     background-image: url('Images/sobreavant.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 
     align-self: center;
 
-    border-radius: 2.5rem;
+    
 
     margin-bottom: 3.5rem;
 }
